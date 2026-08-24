@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Eduardo 👋
 
-<!--
-**ejozmar/ejozmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer with experience in regulated environments and laboratory information systems.
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Interested in software development and automation
+- 🧪 Experience working with Laboratory Information Management Systems (LIMS)
+- 🚀 Building projects with Python, C#, .NET, Vue.js, and SQL
+- 🌱 Currently expanding my skills in ASP.NET and Python development
+- 🤖 Interested in AI-assisted software development
+
+## 🛠️ Tech Stack
+
+**Languages:** Python · C# · JavaScript · PHP · SQL
+
+**Frameworks & Technologies:**  
+.NET · ASP.NET · Vue.js · React · Laravel · Git
+
+## 📚 Currently Learning
+
+- ASP.NET
+- Python Development
+- AI-Assisted Software Development
+
+## 🚀 Featured Projects
+
+Projects coming soon.
