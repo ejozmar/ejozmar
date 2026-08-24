@@ -15,7 +15,7 @@ Software Developer with experience in regulated environments and laboratory info
 **Languages:** Python · C# · JavaScript · PHP · SQL
 
 **Frameworks & Technologies:**  
-.NET · ASP.NET · Vue.js · React · Laravel · Git
+.NET · ASP.NET · Vue.js · Laravel · Git
 
 ## 📚 Currently Learning
 
